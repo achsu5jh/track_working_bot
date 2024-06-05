@@ -41,9 +41,9 @@ def keyboard_input():
 
 def main():
 	while True:
-		flag = random.randrange(0,25)
+		flag = random.randrange(0,50)
 		print(flag)
-		if flag > 10:
+		if flag > 20:
 			mouse_scroll()
 		else:
 			keyboard_input()
