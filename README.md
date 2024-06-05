@@ -1,1 +1,8 @@
-# track_working_bot
+# track_working_botdq   av
+lr
+x
+lpcgkfikohd
+q
+y
+y
+telt
